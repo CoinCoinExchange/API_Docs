@@ -1,2 +1,1 @@
-# API_Docs
-币爱 API文档
+[API文档](https://github.com/CoinCoinExchange/API_Docs/wiki)
